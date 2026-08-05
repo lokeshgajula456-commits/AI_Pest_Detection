@@ -1,5 +1,5 @@
-streamlit==1.46.1
-ultralytics==8.3.70
+streamlit
+ultralytics
 torch
 torchvision
 pillow
